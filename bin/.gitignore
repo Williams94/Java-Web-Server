@@ -1,0 +1,14 @@
+/Client.class
+/ClientHandler.class
+/ClientMain.class
+/Configuration.class
+/ConnectionHandler.class
+/DisconnectedException.class
+/InvalidRequestException.class
+/Log.class
+/Request.class
+/Response.class
+/Server.class
+/ServerMain.class
+/html/
+/logs/
